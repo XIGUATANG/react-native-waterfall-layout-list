@@ -1,0 +1,27 @@
+{
+  "name": "react-native-waterfall-layout-list",
+  "version": "1.0.0",
+  "description": "A waterall list componet of react-native",
+  "main": "index.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "waterfall-list",
+    "masonry"
+  ],
+  "files": [
+    "index.tsx"
+  ],
+  "author": "xigua tang",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.1",
+    "react-native": "^0.63.4"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.2",
+    "@types/react-native": "^0.63.50"
+  }
+}
