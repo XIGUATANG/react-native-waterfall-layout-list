@@ -5,7 +5,7 @@ waterfall-layout-list. based in react native VirtualizedList
 
 
 <p align="center">
-<img src="gifs/demo.gif" height="500" />
+<img src="gifs/demo.gif" height="400" />
 </p>
 
 
