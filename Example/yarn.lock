@@ -5847,9 +5847,10 @@ react-native-svg@^12.1.0:
     css-select "^2.1.0"
     css-tree "^1.0.0-alpha.39"
 
-react-native-waterfall-list@../react-native-waterfall-list-1.0.0.tgz:
-  version "1.0.0"
-  resolved "../react-native-waterfall-list-1.0.0.tgz#ee5d8d9e893a0f8cf166965319f5cb5ae2a9cb33"
+react-native-waterfall-layout-list@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.npmjs.org/react-native-waterfall-layout-list/-/react-native-waterfall-layout-list-1.0.1.tgz#d4612b5898254351adba5bf872a0ba886b9dffb4"
+  integrity sha512-M5jDIpE2QHr5pkdpKMfXpta418KyhxjpGhhatCgUzVUb5JPiXbZvZOm8hHNHskHMv0QMMTBOfXHt6S4kbLOFUA==
   dependencies:
     react "^17.0.1"
     react-native "^0.63.4"
@@ -5889,8 +5890,8 @@ react-native@0.63.3:
 
 react-native@^0.63.4:
   version "0.63.4"
-  resolved "https://registry.npm.taobao.org/react-native/download/react-native-0.63.4.tgz?cache=0&sync_timestamp=1614299329887&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Freact-native%2Fdownload%2Freact-native-0.63.4.tgz#2210fdd404c94a5fa6b423c6de86f8e48810ec36"
-  integrity sha1-IhD91ATJSl+mtCPG3ob45IgQ7DY=
+  resolved "https://registry.npmjs.org/react-native/-/react-native-0.63.4.tgz#2210fdd404c94a5fa6b423c6de86f8e48810ec36"
+  integrity sha512-I4kM8kYO2mWEYUFITMcpRulcy4/jd+j9T6PbIzR0FuMcz/xwd+JwHoLPa1HmCesvR1RDOw9o4D+OFLwuXXfmGw==
   dependencies:
     "@babel/runtime" "^7.0.0"
     "@react-native-community/cli" "^4.10.0"
@@ -5946,8 +5947,8 @@ react@16.13.1:
 
 react@^17.0.1:
   version "17.0.1"
-  resolved "https://registry.npm.taobao.org/react/download/react-17.0.1.tgz#6e0600416bd57574e3f86d92edba3d9008726127"
-  integrity sha1-bgYAQWvVdXTj+G2S7bo9kAhyYSc=
+  resolved "https://registry.npmjs.org/react/-/react-17.0.1.tgz#6e0600416bd57574e3f86d92edba3d9008726127"
+  integrity sha512-lG9c9UuMHdcAexXtigOZLX8exLWkW0Ku29qPRU8uhF2R9BN96dLCt0psvzPLlHc5OWkgymP3qwTRgbnw5BKx3w==
   dependencies:
     loose-envify "^1.1.0"
     object-assign "^4.1.1"

@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { View, ActivityIndicator, Text } from 'react-native';
-import WaterFallList from 'react-native-waterfall-list';
+import WaterFallList from 'react-native-waterfall-layout-list';
 import throttle from 'lodash/throttle';
 import { colors } from './colors';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';

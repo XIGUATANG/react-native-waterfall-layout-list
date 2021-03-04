@@ -1,6 +1,6 @@
 {
   "name": "react-native-waterfall-layout-list",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A waterall list componet of react-native",
   "main": "index.tsx",
   "scripts": {
@@ -16,6 +16,7 @@
   ],
   "author": "xigua tang",
   "license": "MIT",
+  "homepage": "https://github.com/XIGUATANG/react-native-waterfall-layout-list",
   "dependencies": {
     "react": "^17.0.1",
     "react-native": "^0.63.4"
